@@ -9,3 +9,5 @@ git clone https://github.com/Willydur/Vite-React-Tailwind.git
 cd Vite-React-Tailwind
 npm install
 ```
+
+Hope you enjoy it! 😊
